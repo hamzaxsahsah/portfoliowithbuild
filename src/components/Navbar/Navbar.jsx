@@ -15,10 +15,10 @@ const Navbar = () => {
             <div className="col-xl-12 d-flex align-items-center lefty">
               <h5 className="ld-flex mr-auto devman">
                 <img
-                  src="https://code.google.com/images/developers.png"
+                  src="https://icon-library.com/icon/dev-icon-6.html.html"
                   alt=""
                 />
-                Pro.dev <span className="blink"> _</span>
+                Hamza SAHSAH <span className="blink"> _</span>
               </h5>
               <nav className="nav-menu  mainMenu">
                 <ul>

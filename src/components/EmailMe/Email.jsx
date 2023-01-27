@@ -51,7 +51,8 @@ const Email = (e) => {
                       <div className="contact-details">
                         <i className={details.icon}></i>
                         <div className="contact-mi">
-                          <h4 className="icon-name">{details.contact_name}:</h4>
+                          <h4 className="icon-name"><a>{details.contact_name}</a>:</h4>
+                          
                           <p className="d-name">{details.contact_info}</p>
                         </div>
                       </div>
